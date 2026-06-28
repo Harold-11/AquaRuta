@@ -367,3 +367,7 @@ ul { list-style: none; }
 
   .logo-text { font-size: 1.05rem; }
 }
+.nav-link.active {
+  color: #08C1C7;
+  font-weight: 700;
+}
